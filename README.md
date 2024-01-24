@@ -1,4 +1,4 @@
-1. Datei Teknet herunterladen und entpacken (falls komprimiert)
+1. Datei "Teknet" herunterladen und entpacken (falls komprimiert)
 
 2. README.txt öffnen
 
