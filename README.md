@@ -1,14 +1,5 @@
-Um das Spiel zu starten bitte den Datei "Startskript.ps1" starten.
+1. Datei Teknet herunterladen und entpacken (falls komprimiert)
 
-username: admin
-password: cr#zyb3tc/
+2. README.txt öffnen
 
-Anforderung:
--Taschenrechner (Windows Calculator empfohlen)
--https://www.ascii-code.com/de (ASCII Tabelle)
--Notiz Block (wird empfohlen, um Code aufzunotieren)
--Gehirn (Es ist ein schwieriges Spiel)
-
-Tipps: 
--Bei ASCII-Tabelle mit CRTRL + F arbeiten
--Genau durchlesen
+3. Enjoy :)
