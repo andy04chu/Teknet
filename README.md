@@ -1,5 +1,7 @@
 1. Alle Dateien herunterladen und entpacken (falls komprimiert)
 
-2. "Anleitung.txt" öffnen
+2. Hauptordner zur "Teknet" unbennenen.
 
-3. Enjoy :)
+3. "Anleitung.txt" öffnen
+
+4. Enjoy :)
